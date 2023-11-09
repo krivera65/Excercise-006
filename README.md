@@ -25,4 +25,7 @@
 
 10. La décima y última etapa se centró en la configuración de escenas de victoria y derrota. Se preparó un objeto "GameMode" que manejaba la transición entre estas escenas, y se definieron condiciones de victoria (eliminación de enemigos y oleadas) y derrota (salud del jugador igual a cero). Además, se implementaron las pantallas de victoria y derrota para una experiencia de juego completa y satisfactoria. Estas diez etapas conformaron un proceso completo para el desarrollo de un escenario de juego interactivo en Unity.
 
+    ![Vídeo sin título ‐ Hecho con Clipchamp (3)(1)](https://github.com/krivera65/Excercise-006/assets/143332773/63d188c4-5e0b-471c-a013-43c582f8e6d7)
+
+
    
